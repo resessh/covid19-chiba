@@ -1,6 +1,11 @@
 {
   "newsItems": [
     {
+      "date": "2020-06-12T17:00:00+09:00",
+      "link": "https://www.pref.chiba.lg.jp/koufuku/press/2020/20200612_cluster01_3.html",
+      "title": "新型コロナウイルス発生のクラスター施設の感染の状況について（市川）第3報"
+    },
+    {
       "date": "2020-06-12T14:00:00+09:00",
       "link": "https://www.pref.chiba.lg.jp/jinji/ninyou/press/2020/joukyuu/moushikomir2.html",
       "title": "令和2年度千葉県職員採用上級試験等の申込状況及び新型コロナウイルス感染症への対応について"
@@ -27,13 +32,13 @@
     },
     {
       "date": "2020-06-07T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200603.html",
-      "title": "新型コロナウイルス感染症感染者の発生について(令和2年6月3日)"
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200607.html",
+      "title": "新型コロナウイルス感染症感染者の発生について(令和2年6月7日)"
     },
     {
       "date": "2020-06-07T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200607.html",
-      "title": "新型コロナウイルス感染症感染者の発生について(令和2年6月7日)"
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200603.html",
+      "title": "新型コロナウイルス感染症感染者の発生について(令和2年6月3日)"
     },
     {
       "date": "2020-06-05T00:00:00+09:00",
@@ -57,13 +62,13 @@
     },
     {
       "date": "2020-05-30T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200530-2.html",
-      "title": "新型コロナウイルス感染症感染者の再陽性事例について(令和2年5月30日)"
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200530.html",
+      "title": "新型コロナウイルス感染症感染者の発生について(令和2年5月30日)"
     },
     {
       "date": "2020-05-30T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200530.html",
-      "title": "新型コロナウイルス感染症感染者の発生について(令和2年5月30日)"
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200530-2.html",
+      "title": "新型コロナウイルス感染症感染者の再陽性事例について(令和2年5月30日)"
     },
     {
       "date": "2020-05-29T00:00:00+09:00",
@@ -202,13 +207,13 @@
     },
     {
       "date": "2020-05-06T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200506.html",
-      "title": "新型コロナウイルスに関連した患者の死亡について(37例目)"
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200506-2.html",
+      "title": "新型コロナウイルス感染症感染者の発生について(令和2年5月6日)"
     },
     {
       "date": "2020-05-06T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200506-2.html",
-      "title": "新型コロナウイルス感染症感染者の発生について(令和2年5月6日)"
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200506.html",
+      "title": "新型コロナウイルスに関連した患者の死亡について(37例目)"
     },
     {
       "date": "2020-05-05T00:00:00+09:00",
@@ -292,6 +297,11 @@
     },
     {
       "date": "2020-04-24T00:00:00+09:00",
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200423.html",
+      "title": "新型コロナウイルス感染症感染者の発生について(令和2年4月23日)"
+    },
+    {
+      "date": "2020-04-24T00:00:00+09:00",
       "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200423-2.html",
       "title": "市川市内介護老人保健施設における新型コロナウイルス感染症の集団発生について（第5報）"
     },
@@ -299,11 +309,6 @@
       "date": "2020-04-24T00:00:00+09:00",
       "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200423-3.html",
       "title": "新型コロナウイルスに関連した患者の死亡について(17-18例目)"
-    },
-    {
-      "date": "2020-04-24T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200423.html",
-      "title": "新型コロナウイルス感染症感染者の発生について(令和2年4月23日)"
     },
     {
       "date": "2020-04-23T18:00:00+09:00",
@@ -352,18 +357,13 @@
     },
     {
       "date": "2020-04-19T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200419-1.html",
-      "title": "新型コロナウイルスに関連した患者の死亡について(11例目)"
-    },
-    {
-      "date": "2020-04-19T00:00:00+09:00",
       "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200419-2.html",
       "title": "新型コロナウイルス感染症患者の発生に伴う調査結果について"
     },
     {
-      "date": "2020-04-18T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200418-4.html",
-      "title": "新型コロナウイルスに関連した患者の死亡について(9例目、10例目)"
+      "date": "2020-04-19T00:00:00+09:00",
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200419-1.html",
+      "title": "新型コロナウイルスに関連した患者の死亡について(11例目)"
     },
     {
       "date": "2020-04-18T00:00:00+09:00",
@@ -374,6 +374,11 @@
       "date": "2020-04-18T00:00:00+09:00",
       "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200418-3.html",
       "title": "障害福祉施設における新型コロナウイルス感染症の集団発生について（第12報）（令和2年4月18日）"
+    },
+    {
+      "date": "2020-04-18T00:00:00+09:00",
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200418-4.html",
+      "title": "新型コロナウイルスに関連した患者の死亡について(9例目、10例目)"
     },
     {
       "date": "2020-04-18T00:00:00+09:00",
@@ -432,16 +437,6 @@
     },
     {
       "date": "2020-04-11T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200411-2.html",
-      "title": "新型コロナウイルスに関連した患者の死亡について(3例目)"
-    },
-    {
-      "date": "2020-04-11T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200411.html",
-      "title": "新型コロナウイルス感染症感染者の発生について(令和2年4月11日)"
-    },
-    {
-      "date": "2020-04-11T00:00:00+09:00",
       "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200410.html",
       "title": "新型コロナウイルス感染症患者の発生について(令和2年4月10日)"
     },
@@ -449,6 +444,16 @@
       "date": "2020-04-11T00:00:00+09:00",
       "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200410-2.html",
       "title": "新型コロナウイルスに関連した患者の死亡について(2例目)"
+    },
+    {
+      "date": "2020-04-11T00:00:00+09:00",
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200411-2.html",
+      "title": "新型コロナウイルスに関連した患者の死亡について(3例目)"
+    },
+    {
+      "date": "2020-04-11T00:00:00+09:00",
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2020/ncov20200411.html",
+      "title": "新型コロナウイルス感染症感染者の発生について(令和2年4月11日)"
     },
     {
       "date": "2020-04-10T17:00:00+09:00",
@@ -647,13 +652,13 @@
     },
     {
       "date": "2020-03-14T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/keishi/ncov/colona4.html",
-      "title": "新型コロナウイルスの影響を受けた中小企業者に対する金融支援について（令和2年3月13日）"
+      "link": "https://www.pref.chiba.lg.jp/shippei/press/2019/ncov20200314.html",
+      "title": "新型コロナウイルス感染症患者の発生について(令和2年3月14日)"
     },
     {
       "date": "2020-03-14T00:00:00+09:00",
-      "link": "https://www.pref.chiba.lg.jp/shippei/press/2019/ncov20200314.html",
-      "title": "新型コロナウイルス感染症患者の発生について(令和2年3月14日)"
+      "link": "https://www.pref.chiba.lg.jp/keishi/ncov/colona4.html",
+      "title": "新型コロナウイルスの影響を受けた中小企業者に対する金融支援について（令和2年3月13日）"
     },
     {
       "date": "2020-03-13T16:00:00+09:00",
